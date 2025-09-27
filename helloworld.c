@@ -2,7 +2,7 @@
 
 int main(void)
 {
-  printf("hello world\b");
+  printf("The output has changed!\b");
 }
 
 //Adding comment to file, hello!
